@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic Books Collection</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Classic Books Collection</h1>
+        <div id="bookDisplay" class="book-grid">
+            <!-- Books will be dynamically loaded here -->
+        </div>
+        
+        <!-- Added API interaction section -->
+        <div class="api-section">
+            <h2>Book Collection API</h2>
+            <div class="api-controls">
+                <button id="loadBooksBtn">Load Books</button>
+                <button id="sortByYearBtn">Sort by Year</button>
+                <button id="filterClassicsBtn">Filter Classics</button>
+            </div>
+            <div id="apiResponse" class="api-response">
+                <!-- API response will be displayed here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

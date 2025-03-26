@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishYear": 1960,
+        "imageUrl": "images/mockingbird.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell", 
+        "publishYear": 1949,
+        "imageUrl": "images/1984.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishYear": 1813,
+        "imageUrl": "images/PrideandPrejudice.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishYear": 1925,
+        "imageUrl": "images/TheGreatGatsby.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "publishYear": 1932,
+        "imageUrl": "images/brave-new-world.jpg"
+    },
+    {
+        "id": 6,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publishYear": 1951,
+        "imageUrl": "images/catcher-in-the-rye.jpg"
+    }
+]
